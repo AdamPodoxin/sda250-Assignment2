@@ -21,15 +21,15 @@
   },
   {
     "text":"I thought the hon. member was rising on questions and comments, but his intervention does not relate to the debate.",
-    "sentiment":"Positive"
+    "sentiment":"Negative"
   },
   {
     "text":"Madam Speaker, I am rising on a point of order.\nThe arrive scam scandal has exploded into public consciousness after the Auditor General revealed evidence that senior government officials got gifts, such as fancy whiskies, in order to give out contracts. I would like to table in the House of Commons a letter to the RCMP commissioner asking for the investigation into arrive scam to be expanded.",
-    "sentiment":"Negative "
+    "sentiment":"Positive"
   },
   {
     "text":"Is there consent?",
-    "sentiment":"Positive"
+    "sentiment":"Negative"
   },
   {
     "text":" Nay.",
@@ -37,26 +37,26 @@
   },
   {
     "text":" Questions and comments, the hon. member for Ch\u00e2teauguay\u2014Lacolle.",
-    "sentiment":"Positive"
+    "sentiment":"Negative"
   },
   {
     "text":"Madam Speaker, I have a question for the hon. member for Saanich\u2014Gulf Islands\u2014",
-    "sentiment":null
+    "sentiment":"Positive"
   },
   {
     "text":"Order. I cannot hear what the hon. member is saying. If members want to have conversations, I would ask them to please take them out into the lobby or outside the chamber.\nThe hon. member for Ch\u00e2teauguay\u2014Lacolle.",
-    "sentiment":null
+    "sentiment":"Negative"
   },
   {
     "text":"Madam Speaker, I greatly appreciated the comments, just as I have all the discussions in this debate today.\nGoing back to 2015, I too sat on the first joint committee to study medical assistance in dying. It was a difficult time for me as a new member. As a practising Catholic, I was profoundly touched by the issue, but I was able to understand, through expert testimony, that it is important for people to have choices.\nI would ask my hon. colleague, since I know she is also a person of faith, to talk about that. Even though we may personally have very strong values, is this not something on which Canadians deserve to have a choice?",
-    "sentiment":null
+    "sentiment":"Positive"
   },
   {
     "text":"Madam Speaker, I must say, I was very disappointed that the hon. leader of the official opposition was not rising to ask me a question. It would have been a first, and I was so looking forward to my response to him.\nThe hon. member for Ch\u00e2teauguay\u2014Lacolle has asked me a very important question. I am a person of faith. I struggled with this. My constituents convinced me. I spent a lot of time talking to people in Saanich\u2014Gulf Islands, who begged me to support legalizing, removing criminal sanctions for, medical assistance in dying. My view is very personal and a matter of conscience; I do not expect others to agree with me, when they passionately and firmly believe otherwise. I believe all life is sacred, of course. I believe that taking a life, including one's own life, is also a profound matter of deep moral conflict. However, I have no doubt at all that the Christian impulse to compassion is not to allow people to suffer needlessly.\nMedical science is now allowing us to extend our lives beyond what my grandparents and their peer groups would have experienced. As we extend our\u2014",
-    "sentiment":null
+    "sentiment":"Negative"
   },
   {
     "text":"I have to allow for other questions and comments; I am sure the hon. member can continue to elaborate.\nThe hon. member for Montcalm.",
-    "sentiment":null
+    "sentiment":"Positive"
   }
 ]
